@@ -1,0 +1,14 @@
+C:\Users\amit_mishra6\Desktop\Hawk_Document\SecondPage\SecondPage\SecondPage\bin\Debug\netstandard2.0\SecondPage.deps.json
+C:\Users\amit_mishra6\Desktop\Hawk_Document\SecondPage\SecondPage\SecondPage\bin\Debug\netstandard2.0\SecondPage.dll
+C:\Users\amit_mishra6\Desktop\Hawk_Document\SecondPage\SecondPage\SecondPage\bin\Debug\netstandard2.0\SecondPage.pdb
+C:\Users\amit_mishra6\Desktop\Hawk_Document\SecondPage\SecondPage\SecondPage\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\amit_mishra6\Desktop\Hawk_Document\SecondPage\SecondPage\SecondPage\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\amit_mishra6\Desktop\Hawk_Document\SecondPage\SecondPage\SecondPage\obj\Debug\netstandard2.0\SecondPage.csproj.CoreCompileInputs.cache
+C:\Users\amit_mishra6\Desktop\Hawk_Document\SecondPage\SecondPage\SecondPage\obj\Debug\netstandard2.0\SecondPage.AssemblyInfoInputs.cache
+C:\Users\amit_mishra6\Desktop\Hawk_Document\SecondPage\SecondPage\SecondPage\obj\Debug\netstandard2.0\SecondPage.AssemblyInfo.cs
+C:\Users\amit_mishra6\Desktop\Hawk_Document\SecondPage\SecondPage\SecondPage\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\amit_mishra6\Desktop\Hawk_Document\SecondPage\SecondPage\SecondPage\obj\Debug\netstandard2.0\SecondPage.dll
+C:\Users\amit_mishra6\Desktop\Hawk_Document\SecondPage\SecondPage\SecondPage\obj\Debug\netstandard2.0\SecondPage.pdb
+C:\Users\amit_mishra6\Desktop\Hawk_Document\SecondPage\SecondPage\SecondPage\obj\Debug\netstandard2.0\ComingPage.xaml.g.cs
+C:\Users\amit_mishra6\Desktop\Hawk_Document\SecondPage\SecondPage\SecondPage\obj\Debug\netstandard2.0\SecondPage.csprojAssemblyReference.cache
+C:\Users\amit_mishra6\Desktop\Hawk_Document\SecondPage\SecondPage\SecondPage\obj\Debug\netstandard2.0\GradientColorPage.xaml.g.cs

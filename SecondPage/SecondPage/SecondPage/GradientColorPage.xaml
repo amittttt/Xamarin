@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+xmlns:local="clr-namespace:SecondPage" 
+x:Class="SecondPage.GradientColorPage">
+
+    <local:GradientColorStack StartColor="#5BADFF" EndColor="#3E75AB">
+                <StackLayout VerticalOptions="CenterAndExpand">
+                    <Label Text="Horizontal Gradient color for StackLayout" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" TextColor="White" />
+                </StackLayout>
+            </local:GradientColorStack>
+
+</ContentPage>  
